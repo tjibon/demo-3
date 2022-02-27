@@ -1,0 +1,52 @@
+/** Fonts start**/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+/** Fonts End**/
+
+
+/** common css start*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/** common css end**/
+body{
+
+    font-family: 'Poppins', sans-serif;
+    color: #5D6679;
+    background: #2f2e8a;
+  
+ 
+    
+}
+.main-wrapper{
+    width:100%;
+    max-width: 4096px;
+  
+ 
+   
+}
+a.navbar-brand.logo {
+    width: 464px;
+    height: 68.8px;
+}
+.main-menu ul {
+    margin: 0;
+    padding: 0;
+}
+.main-menu ul li {
+    
+}
+.main-menu ul li a {
+    font-size: 48px;
+    color: #fff !important;
+    margin-left: 55px;
+}
+button.btn {
+    width: 372px;
+    height: 114px;
+    border: 2px solid #fff;
+    font-size: 48px;
+    color: #fff;
+    margin-left: 45px;
+}
